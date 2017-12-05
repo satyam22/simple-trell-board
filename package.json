@@ -1,0 +1,29 @@
+{
+  "name": "simple-trell-board",
+  "version": "1.0.0",
+  "description": "Trello Board to create and manage tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "eject":"react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyam22/simple-trell-board.git"
+  },
+  "author": "satyam bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyam22/simple-trell-board/issues"
+  },
+  "homepage": "https://github.com/satyam22/simple-trell-board#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^1.0.17",
+    "redux": "^3.7.2"
+  }
+}
